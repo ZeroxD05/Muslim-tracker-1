@@ -1,0 +1,21 @@
+{
+  "name": "Muslim Tracker & Trainer",
+  "short_name": "MTT",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#333",
+  "theme_color": "#333",
+  "description": "A responsive tracker & trainer for Muslims: prayer checklist, Arabic mini-games, notes, Quran/Hadith/Dhikr reading, and daily reminders.",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
